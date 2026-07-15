@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋 I'm Tiphaine
 
-<!--
-**TiphaineLalonde/TiphaineLalonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at **42 Paris** with a background in **Product Management**, **Philosophy**, and **Digital Transformation**.
 
-Here are some ideas to get you started:
+I'm passionate about building AI products that help people **learn, think, and make better decisions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm currently building
+
+- 🤖 AI-powered educational applications
+- 🌏 An AI-native language learning platform, starting with Tamil
+- 💻 Software Engineering projects at 42 Paris
+- 🐍 Python & AI Engineering
+- 🧠 AI applications for education and decision support
+
+## 🌱 Currently learning
+
+- Systems Programming
+- Artificial Intelligence
+- Product Development
+- Startup Building
+
+## 🤝 Beyond coding
+
+I enjoy participating in hackathons, AI meetups, and open-source communities.
+
+Recently I:
+- 🏛️ Built an AI MVP during the French National Assembly AI Hackathon
+- 🤖 Participate in the OpenAI community and AI hackathons
+- 💡 Explore how AI can create meaningful impact in education and public decision-making
+
+## 📫 Let's connect
+
+- 💼 LinkedIn: www.linkedin.com/in/tiphaine-lalonde
