@@ -27,7 +27,7 @@ I believe the best way to learn is by building alongside ambitious people.
 
 Recently I:
 - 🏛️ Built an AI MVP during the French National Assembly AI Hackathon
-- 🤖 Participate in AI hackathons and OpenAI community events
+- 🤖 PActively participate in AI hackathons and OpenAI community events
 - 💡 Explore AI applications for education, healthcare, and public decision-making
 
 ## 📫 Let's connect
