@@ -1,16 +1,18 @@
 # Hi there 👋 I'm Tiphaine
 
+> **Building AI products that help humans learn, think, and make better decisions.**
+
 I'm a Software Engineering student at **42 Paris** with a background in **Product Management**, **Philosophy**, and **Digital Transformation**.
 
-I'm passionate about building AI products that help people **learn, think, and make better decisions**.
+I'm passionate about turning ambitious ideas into real-world AI products with meaningful impact.
 
 ## 🚀 What I'm currently building
 
 - 🤖 AI-powered educational applications
-- 🌏 An AI-native language learning platform, starting with Tamil
+- 🧠 AI tools for learning and decision support
 - 💻 Software Engineering projects at 42 Paris
 - 🐍 Python & AI Engineering
-- 🧠 AI applications for education and decision support
+- 🚀 Product ideas validated through rapid prototyping and hackathons
 
 ## 🌱 Currently learning
 
@@ -21,13 +23,13 @@ I'm passionate about building AI products that help people **learn, think, and m
 
 ## 🤝 Beyond coding
 
-I enjoy participating in hackathons, AI meetups, and open-source communities.
+I believe the best way to learn is by building alongside ambitious people.
 
 Recently I:
 - 🏛️ Built an AI MVP during the French National Assembly AI Hackathon
-- 🤖 Participate in the OpenAI community and AI hackathons
-- 💡 Explore how AI can create meaningful impact in education and public decision-making
+- 🤖 Participate in AI hackathons and OpenAI community events
+- 💡 Explore AI applications for education, healthcare, and public decision-making
 
 ## 📫 Let's connect
 
-- 💼 LinkedIn: www.linkedin.com/in/tiphaine-lalonde
+- 💼 LinkedIn: https://www.linkedin.com/in/tiphaine-lalonde
